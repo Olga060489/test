@@ -1,4 +1,6 @@
 testing file
+untesting file
+>>>>>>> ba0a442b683986edcd5a76449cb2aee2f3a44250
 commit test
 245
 789.
